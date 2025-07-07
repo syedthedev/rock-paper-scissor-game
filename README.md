@@ -28,7 +28,7 @@ Play against the computer and keep score in this simple browser-based game.
 
 ## 📸 Preview
 
-![Game Preview](previwe/preview.PNG)
+![Game Preview](preview/preview.PNG)
 
 > 💡 Note: This project is designed for desktop only and is **not responsive**.
 

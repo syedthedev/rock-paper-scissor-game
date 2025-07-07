@@ -38,10 +38,10 @@ Play against the computer and keep score in this simple browser-based game.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/syedthedev/rock-paper-scissor.git
+git clone https://github.com/syedthedev/rock-paper-scissor-game.git
 
 # 2. Navigate into the folder
-cd rock-paper-scissor
+cd rock-paper-scissor-game
 
 # 3. Run the app
 Open Rock_Paper_Scissor.html in your browser
